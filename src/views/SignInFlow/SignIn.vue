@@ -60,5 +60,6 @@ export default {
 
 .login {
   width: 400px;
+  text-align: center;
 }
 </style>
